@@ -1,8 +1,8 @@
 # clientesmask
-Para ejecutar el programa usar:
-  python2.6 csvmasker.py <directorio_csv>/clientes.csv
+Para ejecutar el programa usar:<br />
+  python2.6 csvmasker.py <directorio_csv>/clientes.csv<br />
   
-Para realizar los test del programa se ha usado py.test, para instalarlo y comprobar los test:
-  pip install pytest
-  cd <directorio_ejercicio1>/
+Para realizar los test del programa se ha usado py.test, para instalarlo y comprobar los test:<br />
+  pip install pytest<br />
+  cd <directorio_ejercicio1>/<br />
   py.test
